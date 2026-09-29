@@ -393,7 +393,7 @@ object Form1: TForm1
     Height = 293
     Top = 0
     Width = 220
-    FileName = 'E:\Resets\lib\rick-and.gif'
+    FileName = '\Resets\lib\rick-and.gif'
     OnClick = GifAnim1Click
   end
   object MainMenu1: TMainMenu
@@ -417,6 +417,33 @@ object Form1: TForm1
       object MenuItem5: TMenuItem
         Caption = 'L3150'
         OnClick = MenuItem5Click
+      end
+      object MenuItem7: TMenuItem
+        Caption = 'L32xx'
+        object MenuItem8: TMenuItem
+          Caption = 'L3250'
+          OnClick = MenuItem8Click
+        end
+        object MenuItem6: TMenuItem
+          Caption = 'L3251'
+          OnClick = MenuItem6Click
+        end
+        object MenuItem9: TMenuItem
+          Caption = 'L3260'
+          OnClick = MenuItem9Click
+        end
+        object MenuItem10: TMenuItem
+          Caption = 'L5290'
+          OnClick = MenuItem10Click
+        end
+        object MenuItem11: TMenuItem
+          Caption = 'L3210'
+          OnClick = MenuItem11Click
+        end
+        object MenuItem12: TMenuItem
+          Caption = 'L1210'
+          OnClick = MenuItem12Click
+        end
       end
     end
   end

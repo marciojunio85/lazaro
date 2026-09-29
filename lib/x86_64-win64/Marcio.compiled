@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CONFIG>
   <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1556502373"/>
-  <Params Value="-MObjFPC -Scghi -O1 -gw3 -gl -WG -l -vewnhibq -FiE:\Resets\lib\x86_64-win64 -FuE:\Resets\ -FuC:\Users\Usuario\AppData\Local\lazarus\onlinepackagemanager\packages\gifanim\lib\x86_64-win64 -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\components\freetype\lib\x86_64-win64 -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 -FUE:\Resets\lib\x86_64-win64\ -FEE:\Resets\ -oE:\Resets\Marcio.exe -dLCL -dLCLwin32 Marcio.lpr"/>
+  <Params Value="-MObjFPC -Scghi -O1 -gw3 -gl -WG -l -vewnhibq -FiC:\Resets\lib\x86_64-win64 -FuC:\Resets\ -FuC:\Users\Usuario\AppData\Local\lazarus\onlinepackagemanager\packages\gifanim\lib\x86_64-win64 -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\components\freetype\lib\x86_64-win64 -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 -FUC:\Resets\lib\x86_64-win64\ -FEC:\Resets\ -oC:\Resets\Marcio.exe -dLCL -dLCLwin32 Marcio.lpr"/>
 </CONFIG>

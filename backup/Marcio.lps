@@ -12,7 +12,7 @@
         <WindowIndex Value="-1"/>
         <TopLine Value="-1"/>
         <CursorPos X="-1" Y="-1"/>
-        <UsageCount Value="29"/>
+        <UsageCount Value="30"/>
       </Unit>
       <Unit>
         <Filename Value="marcioarq.pas"/>
@@ -22,46 +22,14 @@
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="MarcioArq"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="171"/>
-        <CursorPos X="3" Y="173"/>
-        <UsageCount Value="29"/>
+        <TopLine Value="314"/>
+        <CursorPos X="18" Y="347"/>
+        <UsageCount Value="30"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="19">
-      <Position>
-        <Filename Value="marcioarq.pas"/>
-        <Caret Line="55" TopLine="31"/>
-      </Position>
-      <Position>
-        <Filename Value="marcioarq.pas"/>
-        <Caret Line="42" Column="10" TopLine="35"/>
-      </Position>
-      <Position>
-        <Filename Value="marcioarq.pas"/>
-        <Caret Line="46" Column="15" TopLine="31"/>
-      </Position>
-      <Position>
-        <Filename Value="marcioarq.pas"/>
-        <Caret Line="45" Column="4" TopLine="39"/>
-      </Position>
-      <Position>
-        <Filename Value="marcioarq.pas"/>
-        <Caret Line="58" Column="52" TopLine="44"/>
-      </Position>
-      <Position>
-        <Filename Value="marcioarq.pas"/>
-        <Caret Line="59" Column="85" TopLine="41"/>
-      </Position>
-      <Position>
-        <Filename Value="marcioarq.pas"/>
-        <Caret Line="51" Column="46" TopLine="39"/>
-      </Position>
-      <Position>
-        <Filename Value="marcioarq.pas"/>
-        <Caret Line="58" Column="57" TopLine="42"/>
-      </Position>
+    <JumpHistory HistoryIndex="29">
       <Position>
         <Filename Value="marcioarq.pas"/>
         <Caret Line="81" Column="3" TopLine="58"/>
@@ -109,6 +77,78 @@
       <Position>
         <Filename Value="marcioarq.pas"/>
         <Caret Line="218" Column="71" TopLine="196"/>
+      </Position>
+      <Position>
+        <Filename Value="marcioarq.pas"/>
+        <Caret Line="173" Column="3" TopLine="171"/>
+      </Position>
+      <Position>
+        <Filename Value="marcioarq.pas"/>
+        <Caret Line="174" Column="3" TopLine="172"/>
+      </Position>
+      <Position>
+        <Filename Value="marcioarq.pas"/>
+        <Caret Line="175" Column="3" TopLine="173"/>
+      </Position>
+      <Position>
+        <Filename Value="marcioarq.pas"/>
+        <Caret Line="182" Column="3" TopLine="180"/>
+      </Position>
+      <Position>
+        <Filename Value="marcioarq.pas"/>
+        <Caret Line="169" Column="36" TopLine="167"/>
+      </Position>
+      <Position>
+        <Filename Value="marcioarq.pas"/>
+        <Caret Line="182" Column="57" TopLine="160"/>
+      </Position>
+      <Position>
+        <Filename Value="marcioarq.pas"/>
+        <Caret Line="181" Column="57" TopLine="159"/>
+      </Position>
+      <Position>
+        <Filename Value="marcioarq.pas"/>
+        <Caret Line="182" Column="57" TopLine="160"/>
+      </Position>
+      <Position>
+        <Filename Value="marcioarq.pas"/>
+        <Caret Line="183" Column="57" TopLine="161"/>
+      </Position>
+      <Position>
+        <Filename Value="marcioarq.pas"/>
+        <Caret Line="184" Column="57" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="marcioarq.pas"/>
+        <Caret Line="185" Column="57" TopLine="163"/>
+      </Position>
+      <Position>
+        <Filename Value="marcioarq.pas"/>
+        <Caret Line="192" Column="57" TopLine="165"/>
+      </Position>
+      <Position>
+        <Filename Value="marcioarq.pas"/>
+        <Caret Line="196" Column="24" TopLine="176"/>
+      </Position>
+      <Position>
+        <Filename Value="marcioarq.pas"/>
+        <Caret Line="251" Column="20" TopLine="218"/>
+      </Position>
+      <Position>
+        <Filename Value="marcioarq.pas"/>
+        <Caret Line="261" Column="45" TopLine="217"/>
+      </Position>
+      <Position>
+        <Filename Value="marcioarq.pas"/>
+        <Caret Line="292" Column="18" TopLine="269"/>
+      </Position>
+      <Position>
+        <Filename Value="marcioarq.pas"/>
+        <Caret Line="319" Column="18" TopLine="286"/>
+      </Position>
+      <Position>
+        <Filename Value="marcioarq.pas"/>
+        <Caret Line="303" Column="5" TopLine="297"/>
       </Position>
     </JumpHistory>
     <RunParams>
